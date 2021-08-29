@@ -20,7 +20,7 @@ This program not been tested on OSX/Linux. I coded it to not use any Windows spe
 
 4. Make sure Discord is open
 
-5. Launch `ClassicRP.pyw` however you wish
+5. Launch `ClassicRP.pyw` making sure that it opens in the carts directory.
 
 
 
