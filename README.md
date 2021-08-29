@@ -11,7 +11,10 @@ This program not been tested on OSX/Linux. I coded it to not use any Windows spe
 
 1. Download and install Python 3.9+
 
-2. Open a terminal and run the following commands: `pip install pypresence` `pip install psutil` `pip install easygui`
+2. Open a terminal and run the following commands: 
+`pip install pypresence`
+`pip install psutil`
+`pip install easygui`
 
 3. Drag and drop `ClassicRP.pyw` and `CelesteRPC.p8` to wherever your carts folder is. (`%appdata%\pico-8\carts` on Windows, and `$HOME\.lexaloffle\pico-8\carts` on OSX and Linux)
 
